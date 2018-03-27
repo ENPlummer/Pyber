@@ -1,4 +1,4 @@
-[[https://github.com/ENPlummer/Pyber/blob/master/README.Pyber/output_12_0.png|alt=Bubble_Plot]]
+[[https://github.com/ENPlummer/Pyber/blob/master/Pyber README/output_12_0.png|alt=Bubble_Plot]]
 
 # Pyber
 
