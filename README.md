@@ -1,4 +1,4 @@
-![alt text](Pyber README/output_12_0.png "Description goes here")
+![alt text](Pyber README/output_12_0.png "Image")
 
 # Pyber
 
