@@ -1,4 +1,4 @@
-[[https://github.com/ENPlummer/Pyber/blob/master/Pyber README/output_12_0.png|alt=Bubble_Plot]]
+![alt text](Pyber README/output_12_0.png "Description goes here")
 
 # Pyber
 
