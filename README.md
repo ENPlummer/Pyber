@@ -1,3 +1,5 @@
+[[https://github.com/ENPlummer/Pyber/blob/master/img/out_put_12.png|alt=Bubble Plot]]
+
 # Pyber
 
 In this project, I analyzed generated data on a fictional ride sharing company called Pyber. I analyzed the data given to me to determine was a correlation between the type of city and the average fare. In addition to my analysis, I also created visualizations based on the data. These were the key insights that I found:
